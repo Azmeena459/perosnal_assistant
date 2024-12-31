@@ -1,0 +1,7 @@
+Flask
+pyttsx3
+wikipedia
+requests
+SpeechRecognition
+wolframalpha
+pyaudio
